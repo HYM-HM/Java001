@@ -12,6 +12,10 @@ public class Student {
 	public void say(){
 		person.say();
 	}
+//添加新的方法
+                public void add(){
+		person.add();
+	}
 	
 	
 }

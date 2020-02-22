@@ -17,5 +17,10 @@ public class Student {
 		person.add();
 	}
 	
+// 	
+	public String str(){
+		return "str";
+	}
+	
 	
 }

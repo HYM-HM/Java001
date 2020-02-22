@@ -17,7 +17,7 @@ public class Student {
 		person.add();
 	}
 	
-// 	
+// 编辑测试（新增方法）
 	public String str(){
 		return "str";
 	}
